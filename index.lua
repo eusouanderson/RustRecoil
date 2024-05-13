@@ -1,9 +1,8 @@
 
--------------------------CONFIG-------------------------
+
 local AK47 = 4  -- Bind for no scope or handmade.
 local AK47_X8_SCOPE = nil -- Bind for 8x
--------------------------------------------------------
---DO NOT USE LEFT OR RIGHT CLICK FOR BINDS
+
 
 
 function IsLeftNotPressed()
@@ -660,5 +659,3 @@ elseif gun == AK47_X8_SCOPE then
 	end
 end
 end
-
--- Created by z-Mythic
